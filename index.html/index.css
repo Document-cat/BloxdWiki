@@ -15,3 +15,21 @@ header {
     width: 100%;
 
 }
+.container {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.bar1,.bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #585858;
+    margin: left;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    transform: translate(0, 11px) rotate(-45deg);
+}
+
+.change .bar2 {opacity: 0;}
