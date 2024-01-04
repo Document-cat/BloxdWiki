@@ -11,12 +11,6 @@ body {
     overflow: hidden;
     border: none;
     background-color: #585858;
-    height: 6px;
+    height: 20px;
     width: 100%;
-}
-.tab button{
-    background-color: #585858;
-    float: left;
-    cursor: pointer;
-    font-size: smaller;
 }
