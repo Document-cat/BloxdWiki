@@ -11,6 +11,8 @@ body {
     overflow: hidden;
     border: none;
     background-color: #585858;
+    height: 6px;
+    width: 100%;
 }
 .tab button{
     background-color: #585858;
